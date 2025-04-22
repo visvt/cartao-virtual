@@ -6,5 +6,5 @@ Projeto criado como exercício de **responsividade** e **CSS moderno**, focando 
 - Animações suaves
 - Código limpo e organizado ✨
 
-[🔗 Acesse aqui o projeto!]
+[🔗 Acesse aqui o projeto!](https://visvt.github.io/cartao-virtual/)
 
