@@ -1,9 +1,10 @@
-# Cartão Virtual
-Projeto criado para estudo de responsividade e efeitos do CSS, com foco em design limpo e código bem estruturado.
+# 💼 Cartão Virtual
 
-# Objetivo
-Este projeto tem como objetivo colocar em prática conceitos de design responsivo utilizando CSS, bem como explorar animações e transições em elementos de um site. A ideia é criar um cartão de visita virtual que se adapta a diferentes tamanhos de tela de maneira eficiente e limpa.
+Projeto criado como exercício de **responsividade** e **CSS moderno**, focando em:
 
-# Tecnologias Usadas
-HTML5
-CSS3 (Media Queries, Transições, Flexbox)
+- Layouts adaptáveis (Media Queries)
+- Animações suaves
+- Código limpo e organizado ✨
+
+[🔗 Acesse aqui o projeto!]
+
